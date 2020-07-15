@@ -352,7 +352,7 @@ class Miniprogram extends baseMiniProgram
             $ext_data['plugins'] = [
                 'live-player-plugin' =>
                     [
-                        'version' => '1.0.1',
+                        'version' => '1.1.1',
                         'provider' => 'wx2b03c6e691cd7370'
                     ]
             ];

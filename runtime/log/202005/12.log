@@ -1,0 +1,178 @@
+[ 2020-05-12T11:41:35+08:00 ] 172.19.167.92 101.226.103.60 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.218046s][åžåçŽ‡ï¼š4.59req/s] [å†…å­˜æ¶ˆè€—ï¼š14,150.11kb] [æ–‡ä»¶åŠ è½½ï¼š113]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T14:29:30+08:00 ] 172.19.167.92 101.226.103.70 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.257367s][åžåçŽ‡ï¼š3.89req/s] [å†…å­˜æ¶ˆè€—ï¼š14,149.94kb] [æ–‡ä»¶åŠ è½½ï¼š113]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T15:01:27+08:00 ] 172.19.167.92 140.207.54.73 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.207274s][åžåçŽ‡ï¼š4.82req/s] [å†…å­˜æ¶ˆè€—ï¼š14,150.18kb] [æ–‡ä»¶åŠ è½½ï¼š113]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T15:01:56+08:00 ] 172.19.167.92 101.226.103.70 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.196288s][åžåçŽ‡ï¼š5.09req/s] [å†…å­˜æ¶ˆè€—ï¼š14,150.13kb] [æ–‡ä»¶åŠ è½½ï¼š113]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T15:03:12+08:00 ] 172.19.167.92 222.72.94.210 POST /platform/config/sysConfig
+[ log ] www.tuandr.com/platform/config/sysConfig [è¿è¡Œæ—¶é—´ï¼š0.082552s][åžåçŽ‡ï¼š12.11req/s] [å†…å­˜æ¶ˆè€—ï¼š9,814.28kb] [æ–‡ä»¶åŠ è½½ï¼š86]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Undefined property: data\service\Upload\AliOss::$endPoint[/www/wwwroot/www.tuandr.com/data/service/Upload/AliOss.php:51]
+[ error ] access key id is empty
+[ error ] [2]Invalid argument supplied for foreach()[/www/wwwroot/www.tuandr.com/application/platform/controller/Config.php:136]
+
+---------------------------------------------------------------
+[ 2020-05-12T15:07:57+08:00 ] 172.19.167.92 101.226.103.70 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.362696s][åžåçŽ‡ï¼š2.76req/s] [å†…å­˜æ¶ˆè€—ï¼š14,410.67kb] [æ–‡ä»¶åŠ è½½ï¼š114]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T15:15:06+08:00 ] 172.19.167.92 101.226.103.71 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.329131s][åžåçŽ‡ï¼š3.04req/s] [å†…å­˜æ¶ˆè€—ï¼š14,410.67kb] [æ–‡ä»¶åŠ è½½ï¼š114]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T17:03:17+08:00 ] 172.19.167.92 222.72.94.210 POST /platform/config/sysConfig
+[ log ] www.tuandr.com/platform/config/sysConfig [è¿è¡Œæ—¶é—´ï¼š0.079946s][åžåçŽ‡ï¼š12.51req/s] [å†…å­˜æ¶ˆè€—ï¼š9,919.88kb] [æ–‡ä»¶åŠ è½½ï¼š86]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Undefined property: data\service\Upload\AliOss::$endPoint[/www/wwwroot/www.tuandr.com/data/service/Upload/AliOss.php:51]
+[ error ] access key id is empty
+[ error ] [2]Invalid argument supplied for foreach()[/www/wwwroot/www.tuandr.com/application/platform/controller/Config.php:136]
+
+---------------------------------------------------------------
+[ 2020-05-12T20:28:39+08:00 ] 172.19.167.92 140.207.54.76 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.424266s][åžåçŽ‡ï¼š2.36req/s] [å†…å­˜æ¶ˆè€—ï¼š14,410.65kb] [æ–‡ä»¶åŠ è½½ï¼š114]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
+[ 2020-05-12T20:29:11+08:00 ] 172.19.167.92 140.207.54.75 POST /wapapi/pay/wchatUrlBack
+[ log ] www.tuandr.com/wapapi/pay/wchatUrlBack [è¿è¡Œæ—¶é—´ï¼š0.655941s][åžåçŽ‡ï¼š1.52req/s] [å†…å­˜æ¶ˆè€—ï¼š14,410.65kb] [æ–‡ä»¶åŠ è½½ï¼š114]
+[ error ] [8]Use of undefined constant ’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù - assumed '’œù…ŸÈïÕœ ðŸ‹ÎŒ¤™¢ÝíÌ­¿úÍÌ–´ô¨Ðï®ðþöàÔ”áõ…ÔŽ¦í°„Üý±œù'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë - assumed 'µÞ¹‡Îç÷ÎßØ¤ó»›ù½ÎÌÃ½ýÈšûú¶öú¡ˆ°Á¸Ðª°ŸŠ‰ÃýÅß÷ƒüÆÏÀ„ÍŠžÊ…ÕÂ÷Ê²øŒêÉ¶›èÀ¥­¿ê·î‹ý¾Ë'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬ - assumed '²é„Ó»Ÿàª±ÊÖƒº–à½Çé˜Ï‘²ãªÑà¥šûšÆ®…Ê‚Àéâë›­ÂžèÙ€¦¡é¾ñûñÕ¦Ä·ËÞ³å¥áëïã¬'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™ - assumed '™õõÛ•Þ¶•†×þÄÉú· ¢û×íÛ‹ÔíÀñÒíËšˆÂä×ï›ìõóì»¾èòÞ‹ï¶ùËÂÏÍ±‘¿„€ŒžˆÏ¯ì§Ÿ‰••ü‚Ñ»ëÄš÷µÑò‚•ÂÐÆÓÊÓéÜì™'[/www/wwwroot/www.tuandr.com/application/tags.php:1]
+[ error ] [8]Use of undefined constant ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ - assumed 'ÍÖ¸±íãèîƒÂ£ŽÚ­»‚ÀŽœ£ŽÃù—›Ï•¨ëøÍºÐ‡ë¾êÕ®î™Ñüó€¹öÀÇ”äÕ'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Use of undefined constant íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª - assumed 'íó®ƒ›üêÕÍñÂŒÝ˜»Í±Ê¦…ÍÌ±³£Š’‘ýÀ•œÛ’‡±ßùóìØ¨¦¾¶ñåÃöƒ’ÄµÅç¿×ù¾™Úô¢â§‚Ýœï¶©™ÝèÏÏÎ“ÇÒ¦ŒˆìôÈÅî‡ÞýâÔ Åü££™”ÚÃ­¸­üˆü‘ÐÏ¸ÜØ¥Ñ¢êÀª'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]Constant Äò already defined[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû - assumed 'Æ™ßž¾ï¤‚ø¸™˜‹…²³Ð¥ÕÏý›ßðˆóö•ØÊ” ãô¾£äã¥Þ¾ö©ÄªÜ•Ð³åÎÎÆÀÖº¸ì”ƒ‚µçöó‹ÛØ±»öï³ ´ÝýÊ®±±ý÷¾×²÷ÅÇúÇüâ¾ñî›Ë ÖÂŠâÅèá‘˜“Â–”ºÕìíÍ²¶Éù´­¹§œÕò½¬¶Î·™• ú¦¹éÐ¤¤¦‘“ôÄÉ¿¿þìø¦ŠÎ™Çû'[/www/wwwroot/www.tuandr.com/version.php:1]
+[ error ] [8]Use of undefined constant ³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ - assumed '³é«ÔåÒŽõ¼Þšá†¬ôûð¿»°¾©ªä´ùþûõÏ'[/www/wwwroot/www.tuandr.com/version.php:5]
+[ error ] [8]Use of undefined constant —Š­¦’ - assumed '—Š­¦’'[/www/wwwroot/www.tuandr.com/application/behavior/CheckAuthor.php:2]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: HTTP_SIGN[/www/wwwroot/www.tuandr.com/application/common.php:2369]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: appkey[/www/wwwroot/www.tuandr.com/data/service/Pay/PayParam.php:107]
+[ error ] [8]æœªå®šä¹‰æ•°ç»„ç´¢å¼•: form_id[/www/wwwroot/www.tuandr.com/data/service/Order.php:3608]
+[ error ] property not exists:data\model\VslOrderModel->website_id
+
+---------------------------------------------------------------
