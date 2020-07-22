@@ -1,0 +1,5 @@
+------tpl_info------------
+tpl name：商品详情页模板
+tpl url：54
+description：1
+------tpl_info------------
